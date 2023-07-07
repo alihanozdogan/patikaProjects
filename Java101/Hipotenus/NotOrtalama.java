@@ -1,6 +1,8 @@
+package java101;
+
 import java.util.Scanner;
 
-public class Main {
+public class NotOrtalama {
 
     public static void main(String[] args) {
         int mat,fizik,kimya,turkce,tarih,muzik;

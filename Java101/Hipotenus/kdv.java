@@ -1,6 +1,5 @@
 package java101;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class kdv {
